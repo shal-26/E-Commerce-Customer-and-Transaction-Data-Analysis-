@@ -46,9 +46,3 @@ To replicate this analysis, ensure your environment meets the following requirem
 * **Action:** Summarized insights into a comprehensive report.
 * **Recommendations:** Proposed holiday-themed cross-category bundles to address the year-end sales drop and a targeted re-engagement email campaign for "At Risk" customers.
 
----
-
-## 5. Video Presentation
-A complete walkthrough of the analytical approach, technical outputs, and final business recommendations is available below:
-
-👉 **[Watch the Video Walkthrough](https://www.loom.com/share/4e92333aae9e44bdba417819fa762816)**
